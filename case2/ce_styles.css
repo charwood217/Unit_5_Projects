@@ -29,6 +29,7 @@ body{
    position: relative;  
 }
 img{
+   display: block;
    width: 100%;
 }
 nav a{
